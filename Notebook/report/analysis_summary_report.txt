@@ -1,0 +1,16 @@
+
+E-COMMERCE DATA ANALYSIS SUMMARY REPORT
+======================================
+
+DATASET OVERVIEW:
+- Total Records: 737,097
+- Date Range: 2010-01-04 09:24:00 to 2011-12-04 13:15:00
+- Countries Covered: 41
+
+BUSINESS METRICS:
+- Total Revenue: £16,273,396.94
+- Total Orders: 34,945
+- Average Order Value: £465.69
+- Unique Customers: 5,771
+- Unique Products: 4,509
+        
