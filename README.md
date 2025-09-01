@@ -49,7 +49,7 @@ The [dashboard](https://lookerstudio.google.com/reporting/8c5247b9-81f9-4fbe-8b5
 - Filters: Date, Product, Country
 
 -----
-![Online_Retail_Data_Visualisation](https://github.com/user-attachments/assets/c6cd9cb5-6828-46be-9f35-9d7816879dc1)
+![Online_Retail_Data_Visualisation (1)_page-0001](https://github.com/user-attachments/assets/e4ca5aee-bfd8-421b-b076-9ed5457ca420)
 -----
 
 ## ✅ Acknowledgement
