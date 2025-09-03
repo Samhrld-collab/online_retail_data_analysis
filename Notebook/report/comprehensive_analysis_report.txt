@@ -13,4 +13,14 @@ BUSINESS METRICS:
 - Average Order Value: £465.69
 - Unique Customers: 5,771
 - Unique Products: 4,509
+
+RFM ANALYSIS RESULTS:
+- Customer Segments: 10
+- Champions: 1263 customers
+- At Risk: 206 customers
+- Top Performing Segment: Champions
+
+FILES GENERATED:
+- processed_ecommerce_data.csv (transaction-level data for BI tools)
+- rfm_customer_segmentation.csv (RFM analysis for BI tools)
         
