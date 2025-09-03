@@ -67,7 +67,7 @@ The [dashboard](https://lookerstudio.google.com/u/0/reporting/8c5247b9-81f9-4fbe
 * Trend Analysis: Time-series revenue patterns
 
 -----
-![Online_Retail_Data_Visualisation (2)_page-0001(1)](https://github.com/user-attachments/assets/2a507939-6fed-415c-8f79-75e8adef0a1f)
+![Online_Retail_Data_Visualisation (3)_page-0001](https://github.com/user-attachments/assets/93f9114c-2add-4bd0-9ef4-21a2058442b0)
 -----
 
 ## ✅ Acknowledgement
