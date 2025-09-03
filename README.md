@@ -16,9 +16,28 @@ The online retail company lacked visibility into:
 
 ## 🔧 Methodology
 1. Data Cleaning & Preprocessing
+- Load and validate Online Retail II dataset
+- Clean data: remove duplicates, handle missing values, filter invalid transactions
+- Engineer features: calculate total amounts, extract time components
+- Filter date range (2010-2011) for focused analysis
 2. Exploratory Data Analysis
-3. Dashboard Creation in Power BI
+- Revenue Analysis: Calculate total revenue (£16.3M), order metrics, and KPIs
+- Product Performance: Identify top-performing products by revenue and quantity
+- Customer Behavior: Analyse purchase patterns and customer lifetime metrics
+- Temporal Trends: Monthly/quarterly revenue patterns and seasonality
+- Geographic Distribution: Country-wise performance analysis
+3. Dashboard Creation in Google Looker Studio
+- Recency: Days since last purchase from analysis date
+- Frequency: Total unique transactions per customer
+- Monetary: Total amount spent by customer
+- Scoring: Quintile-based 1-5 scoring system for each RFM dimension
+- Segmentation: 11 distinct customer segments (Champions, Loyal, At Risk, etc.)
 4. Business Recommendations
+- Champions (High R,F,M) → Reward & retain
+- Loyal Customers → Upsell premium products  
+- At Risk (Low R, High F,M) → Win-back campaigns
+- New Customers → Onboarding & support
+- Cannot Lose Them → Aggressive retention
 
 ## 📈 Results
 - **Total Revenue:** £16,273,396.94  
@@ -40,16 +59,15 @@ The online retail company lacked visibility into:
 - France (£337k)
 
 ## 🖥 BI Dashboard (Google Looker Studio)
-The [dashboard](https://lookerstudio.google.com/reporting/8c5247b9-81f9-4fbe-8b56-b465fec781c3) includes:
-- Total Revenue, Orders, AOV, Customers
-- Revenue by Product
-- Revenue over Time
-- Revenue by Country
-- Customer Segmentation
-- Filters: Date, Product, Country
+The [dashboard](https://lookerstudio.google.com/u/0/reporting/8c5247b9-81f9-4fbe-8b56-b465fec781c3/page/RlNWF) includes:
+* Executive KPIs: Revenue, orders, customers, products
+* Interactive Filters: Date range, country, product selection
+* Customer Segments: RFM-based segmentation with actionable insights
+* Geographic Analysis: Revenue distribution across markets
+* Trend Analysis: Time-series revenue patterns
 
 -----
-![Online_Retail_Data_Visualisation (1)_page-0001](https://github.com/user-attachments/assets/e4ca5aee-bfd8-421b-b076-9ed5457ca420)
+![Online_Retail_Data_Visualisation (2)_page-0001(1)](https://github.com/user-attachments/assets/2a507939-6fed-415c-8f79-75e8adef0a1f)
 -----
 
 ## ✅ Acknowledgement
